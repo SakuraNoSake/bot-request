@@ -1,7 +1,7 @@
 const { Telegraf } = require('telegraf');
 
 const token = '6707629996:AAE6bWyDTMdlxI7EmwnzA9Py-eZ2qBaskkg'
-const adminId = '1881638682'
+const adminId = '742481725'
 const channelId = '-1002061287991';
 
 const bot = new Telegraf(token);
